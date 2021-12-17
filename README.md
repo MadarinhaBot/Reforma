@@ -42,4 +42,4 @@ Por enquanto é só isso, qualquer coisa me avisem *!!*
 
 - Já em ISSUE, clique em `New Issue` e pronto!
 
-<img height="250" scr="https://i.imgur.com/MtFR3bm.png" align="left"
+<img height="250" scr="https://i.imgur.com/MtFR3bm.png" align="left">

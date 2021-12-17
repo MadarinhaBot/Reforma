@@ -25,4 +25,4 @@ We will use this repository to reform Madarinha's commands.
 - Se ficarem em dúvida com alguma coisa, me avisem em um ISSUE (Aqui no GITHUB) ou no DISCORD.
 - Mudem apenas os TEXTOS, não mexam nos SCRIPTS *!!!!*
 
-# Acho que é só isso por enquanto, qualquer coisa me avisem *!!*
+Por enquanto é só isso, qualquer coisa me avisem *!!*

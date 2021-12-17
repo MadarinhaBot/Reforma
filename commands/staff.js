@@ -1,0 +1,7 @@
+    const embed = new Discord.MessageEmbed()
+     .setTitle(`Informações sobre a staff!`)
+     .setColor(`RED`)
+     .addField(`Para se tornar um staff é nescessario fazer o formulário, aqui esta o link do formulario`,  `[Clique Aqui!](https://discord.com/channels/716171497835855892/758087257956679680/828811166918508567)`)
+     .addField(`Mas o que é a staff?`, `A staff é uma equipe que ajuda o servidor.. atualizamos o servidor... fazemos os servidores novos.. e etc..`, true)
+      .setFooter(`Hey ${message.author.tag}, Precisa de Mais Informações? Procure a Ajuda de um Staffer! `)
+      .setImage(`https://cdn.discordapp.com/attachments/758087257956679680/828811141169938472/1617511655487.png`)

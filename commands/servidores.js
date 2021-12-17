@@ -21,11 +21,11 @@
 
 //Textura
 
-      value: `[Clique Aqui](https://www.mediafire.com/file/bluh39w5dryz82c/Textura_V5_Naruto_Pocket.mcpack.zip/file)`,
+      value: `[Clique Aqui](https://www.mediafire.com/file/c49t0fzi76gundy/Textura_V6_Naruto_Pocket.zip/file)`,
 
 //Download Minecraft
 
-      value: `[Clique Aqui](https://www.mediafire.com/file/cwzzaojhcomb6qz/MCPE_1.17.30_By_DeutschF%25C3%25BChrerGames_%2528Xbox_Live%2529.apk/file)`,
+      value: `[Clique Aqui](https://mega.nz/file/MtkkQRbI#3qjc8wyXs0kLI7Y5TXW9i-xZyzsEuyhtqj-9vQsratE)`,
 
 //Dragon Ball
 
@@ -51,7 +51,7 @@
 
 //Download do Minecraft
 
-      value: `[Clique Aqui](https://www.mediafire.com/file/cwzzaojhcomb6qz/MCPE_1.17.30_By_DeutschF%25C3%25BChrerGames_%2528Xbox_Live%2529.apk/file)`,
+      value: `[Clique Aqui](https://mega.nz/file/MtkkQRbI#3qjc8wyXs0kLI7Y5TXW9i-xZyzsEuyhtqj-9vQsratE)`,
 
 //Demon Slayer
 
@@ -72,4 +72,4 @@
 
 //Download Mincraft
 
-      value: `[Clique Aqui](https://www.mediafire.com/file/cwzzaojhcomb6qz/MCPE_1.17.30_By_DeutschF%25C3%25BChrerGames_%2528Xbox_Live%2529.apk/file)`,
+      value: `[Clique Aqui](https://mega.nz/file/MtkkQRbI#3qjc8wyXs0kLI7Y5TXW9i-xZyzsEuyhtqj-9vQsratE)`,

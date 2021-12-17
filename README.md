@@ -11,17 +11,18 @@ We will use this repository to reform Madarinha's commands.
 
 <h1 align="center"> Explicações </h1>
 
-# Aqui vamos:
+# ❗ Explicação:
 
 - Corrigir erros de digitação;
 - Corrigir erros nas informações dos servidores (ip, textura, etc);
 - Fazer comandos novos (os mais necessários);
 - Reformar comandos com erros (depois);
 
-## Notas:
+## 🗒️ Notas:
 
 - Pular Linha: \n (Não precisa tirar) 
 - Se a mensagem estiver com **[MENSAGEM] (LINK)**, só mexa se o LINK e/ou a MENSAGEM estiverem errados
 - Se ficarem em dúvida com alguma coisa, me avisem em um ISSUE (Aqui no GITHUB) ou no DISCORD.
+- Mudem apenas os TEXTOS, não mexam nos SCRIPTS *!!!!*
 
 # Acho que é só isso por enquanto, qualquer coisa me avisem *!!*

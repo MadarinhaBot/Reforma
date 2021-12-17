@@ -41,4 +41,3 @@ Por enquanto é só isso, qualquer coisa me avisem *!!*
 
 <img height="250" src="https://i.imgur.com/XUMs99m.png" align="left">
 <img height="250" src="https://i.imgur.com/ewDrajY.png" align="right">
-<img height="250" scr="https://i.imgur.com/MtFR3bm.png" align="center">

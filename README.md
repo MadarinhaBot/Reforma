@@ -18,4 +18,10 @@ We will use this repository to reform Madarinha's commands.
 - Fazer comandos novos (os mais necessários);
 - Reformar comandos com erros (depois);
 
+## Notas:
+
+- Pular Linha: \n (Não precisa tirar) 
+- Se a mensagem estiver com **[MENSAGEM] (LINK)**, só mexa se o LINK e/ou a MENSAGEM estiverem errados
+- Se ficarem em dúvida com alguma coisa, me avisem em um ISSUE (Aqui no GITHUB) ou no DISCORD.
+
 # Acho que é só isso por enquanto, qualquer coisa me avisem *!!*

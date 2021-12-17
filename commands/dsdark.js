@@ -8,4 +8,4 @@ EX:
 OBS: Não apaguem NENHUMA MENSAGEM nesse comando;
 */
 
-message.madaraReply(`${message.author}, o servidor ainda está sendo feito!`)
+message.madaraReply(`${message.author}, o servidor ainda está liberado somente para os beta testers!`)

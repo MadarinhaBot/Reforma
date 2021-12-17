@@ -37,7 +37,7 @@ Por enquanto é só isso, qualquer coisa me avisem *!!*
 
 - Após isso, vá em `ISSUE`, como mostrado nas prints abaixo
 
-<img height="250" src="https://prnt.sc/23evp3u" align="right">
 <img height="250" src="https://prnt.sc/23ewhuk" align="left">
+<img height="250" src="https://prnt.sc/23ewhuk" align="right">
 
 -

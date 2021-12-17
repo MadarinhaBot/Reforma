@@ -21,4 +21,4 @@ Confirmem se as informações estão certas, se estiver errado, arrumem pfvr
 
 //Download do Minecraft
 
-      value: `[Clique Aqui](https://www.mediafire.com/file/cwzzaojhcomb6qz/MCPE_1.17.30_By_DeutschF%25C3%25BChrerGames_%2528Xbox_Live%2529.apk/file)`,
+      value: `[Clique Aqui](https://mega.nz/file/MtkkQRbI#3qjc8wyXs0kLI7Y5TXW9i-xZyzsEuyhtqj-9vQsratE)`,

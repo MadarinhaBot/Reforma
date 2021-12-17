@@ -26,3 +26,18 @@ We will use this repository to reform Madarinha's commands.
 - Mudem apenas os TEXTOS, não mexam nos SCRIPTS *!!!!*
 
 Por enquanto é só isso, qualquer coisa me avisem *!!*
+
+# Estou mudando alguns comandos diretamente na HOST do madarinha, então não coloquei tantos aqui.
+
+## Dúvidas:
+
+<h1 align="center" Como abrir um ISSUE </h1>
+
+- Antes de tudo, você deve criar uma conta aqui no github
+
+- Após isso, vá em `ISSUE`, como mostrado nas prints abaixo
+
+<img height="250" src="https://prnt.sc/23evp3u" align="right">
+<img height="250" src="https://prnt.sc/23ewhuk" align="left">
+
+-

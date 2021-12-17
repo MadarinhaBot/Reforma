@@ -8,3 +8,14 @@ Usaremos esse repositório pra reformar os comandos do Madarinha.
 ### 🇺s English
 
 We will use this repository to reform Madarinha's commands.
+
+<h1 align="center"> Explicações </h1>
+
+# Aqui vamos:
+
+- Corrigir erros de digitação;
+- Corrigir erros nas informações dos servidores (ip, textura, etc);
+- Fazer comandos novos (os mais necessários);
+- Reformar comandos com erros (depois);
+
+# Acho que é só isso por enquanto, qualquer coisa me avisem *!!*

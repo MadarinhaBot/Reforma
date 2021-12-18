@@ -4,7 +4,7 @@ exports.run = async (client, message, args) => {
 
  const embed = new discord.MessageEmbed()
      .setTitle("IP dos servidores")
-     .setDescription(`**Ip's Rede Dark MCPE**\n\n<:naruto:797908519541932062> **|** **Servidor Naruto Dark**: \n**Ip**: play2.narutocdark.com.br\n**Porta**: 19132\n\n<:Esfera4:879538490650538034> **|** **Servidor Dragon Block Dark**:\n**Ip**: dbpe.narutocdark.com.br\n**Porta**: 19062`)
+     .setDescription(`**Ip's Rede Dark MCPE**\n\n<:naruto:797908519541932062> **|** **Servidor Naruto Dark**: \n**Ip**: play2.narutocdark.com.br\n**Porta**: 19132\n\n<:Esfera4:879538490650538034> **|** **Servidor Dragon Block Dark**:\n**Ip**: dbpe.narutocdark.com.br\n**Porta**: 19062\n\n<:demonSl:879542374949335090>  **|** **Servidor Demon Slayer Dark**:\n**Ip**: jogar.demonslayerdark.com\n**Porta**: 19777`)
      .setColor("#4538ff")
 message.madaraReply(`${message.author}`, embed)
 

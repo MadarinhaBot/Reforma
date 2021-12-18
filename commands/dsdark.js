@@ -1,11 +1,25 @@
 /*
-Tem alguma ideia pra subistituir essa mensagem? Coloque ela como o exemplo abaixo
-
-EX:
-
-//message.madaraReply(`${message.author}, o servidor está quase pronto amigo!`)
-
-OBS: Não apaguem NENHUMA MENSAGEM nesse comando;
+Mudem o que está errado.
 */
 
-message.madaraReply(`${message.author}, o servidor ainda está sendo feito!`)
+//IP
+
+      value: `jogar.demonslayerdark.com`,
+
+//Porta
+
+      value: `19777`,
+
+//Site
+
+      value: `[Clique Aqui](https://darkpe.minecart.com.br/)`,
+
+//Textura
+
+      value: `[Clique Aqui](https://www.mediafire.com/file/lkdy3q3ukwpud7e/TexturaDsdark.zip/file)`,
+
+//Download Minecraft
+
+      value: `[Clique Aqui](https://mega.nz/file/MtkkQRbI#3qjc8wyXs0kLI7Y5TXW9i-xZyzsEuyhtqj-9vQsratE)`
+
+.setFooter(`O servidor ainda está disponível, somente, para os beta testers`)

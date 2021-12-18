@@ -61,15 +61,22 @@
         .addFields(
 //IP
 
-      value: `Em bereve`,
+      value: `jogar.demonslayerdark.com`,
+
+//Porta
+
+      value: `19777`,
 
 //Site
-      value: `Em breve`,
+
+      value: `[Clique Aqui](https://darkpe.minecart.com.br/)`,
 
 //Textura
 
-      value: `Em Breve`,
+      value: `[Clique Aqui](https://www.mediafire.com/file/lkdy3q3ukwpud7e/TexturaDsdark.zip/file)`,
 
-//Download Mincraft
+//Download Minecraft
 
-      value: `[Clique Aqui](https://mega.nz/file/MtkkQRbI#3qjc8wyXs0kLI7Y5TXW9i-xZyzsEuyhtqj-9vQsratE)`,
+      value: `[Clique Aqui](https://mega.nz/file/MtkkQRbI#3qjc8wyXs0kLI7Y5TXW9i-xZyzsEuyhtqj-9vQsratE)`
+
+.setFooter(`O servidor ainda está disponível, somente, para os beta testers`)

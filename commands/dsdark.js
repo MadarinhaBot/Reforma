@@ -22,4 +22,4 @@ Mudem o que está errado.
 
       value: `[Clique Aqui](https://mega.nz/file/MtkkQRbI#3qjc8wyXs0kLI7Y5TXW9i-xZyzsEuyhtqj-9vQsratE)`
 
-.setFooter(`O servidor ainda está disponível somente para os beta testers`)
+.setFooter(`O servidor ainda está disponível, somente, para os beta testers`)
